@@ -1,7 +1,15 @@
 ### Hi there 👋
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilwadhwa22&count_private=true)
+
 <!-- ![image title](https://rushter.com/counter.svg)
 <!--
 **akhilwadhwa22/akhilwadhwa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--<img src="https://github-readme-linkedin.vercel.app/user?username=akhil-wadhwa"/>
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilwadhwa22&count_private=true)
+
 
 Here are some ideas to get you started:
 
