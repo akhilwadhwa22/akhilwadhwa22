@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image title](https://rushter.com/counter.svg)
+<!-- ![image title](https://rushter.com/counter.svg)
 <!--
 **akhilwadhwa22/akhilwadhwa22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
