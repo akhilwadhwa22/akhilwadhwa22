@@ -1,7 +1,7 @@
 ### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) 
 
 
-📫 [Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
+ [📫Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
 - 🔭 I’m currently working on C/C++.
 - 🌱 I post daily interesting Question on my LinkedIn. Interested? Click [here](https://www.linkedin.com/feed/hashtag/letscwithakhilw/)
