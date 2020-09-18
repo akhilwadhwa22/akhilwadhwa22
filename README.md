@@ -1,12 +1,18 @@
 ### Welcome! 👋
 
 
+📫 [Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp; \
+🔭 I’m currently working on C/C++.\
+-👯 I’m looking to collaborate on my project: [Linux_Shell_Implementation](https://github.com/akhilwadhwa22/Simple-Linux-Shell-Implementation-in-C)
 
-🔭 I’m currently working on C/C++
 
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilwadhwa22&count_private=true&theme=dracula)
+<!--or LinkedIn: [akhilwadhwa22]()
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilwadhwa22&layout=compact)
+
+<!-- ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilwadhwa22&count_private=true&theme=dracula)
+
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilwadhwa22&layout=compact)
 
 <!-- ![image title](https://rushter.com/counter.svg)
 <!--
@@ -14,17 +20,17 @@
 
 <!--<img src="https://github-readme-linkedin.vercel.app/user?username=akhil-wadhwa"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilwadhwa22)](https://github.com/akhilwadhwa22/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilwadhwa22)](https://github.com/akhilwadhwa22/github-readme-stats)
 
 
 Here are some ideas to get you started:
 
 - 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
