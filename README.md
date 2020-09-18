@@ -4,6 +4,7 @@
 📫 [Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
 - 🔭 I’m currently working on C/C++.
+- 🌱 I post daily interesting Question on my LinkedIn. Interested? Click [here!](https://www.linkedin.com/feed/hashtag/letscwithakhilw/)
 - 👯 I’m looking to collaborate on my project: [Linux_Shell_Implementation](https://github.com/akhilwadhwa22/Simple-Linux-Shell-Implementation-in-C)
 
 
@@ -26,7 +27,7 @@
 Here are some ideas to get you started:
 
 - 
-- 🌱 I’m currently learning ...
+- 
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
