@@ -1,4 +1,4 @@
-### Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/)! 👋
+### 👋 Welcome to My [![GITHUB](https://i.stack.imgur.com/tskMh.png) GITHUB](https://github.com/akhilwadhwa22/) 
 
 
 📫 [Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
