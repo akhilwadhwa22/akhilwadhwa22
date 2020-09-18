@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 
-📫 [Email](mailto:akhil.wadhwa@nyu.edu)&nbsp;
+📫 [akhil.wadhwa@nyu.edu](mailto:akhil.wadhwa@nyu.edu)&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp; \
 -🔭 I’m currently working on C/C++.\
 -👯 I’m looking to collaborate on my project: [Linux_Shell_Implementation](https://github.com/akhilwadhwa22/Simple-Linux-Shell-Implementation-in-C)
