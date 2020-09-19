@@ -1,4 +1,4 @@
-# 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) :sunglasses:
+# 👋 Welcome to My <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  :sunglasses:
 
 ### 😄 Pronouns: He/Him/His
 
@@ -27,3 +27,4 @@
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
 
 <!--- ![Workspace](https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)--> 
+<!---[![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/)
