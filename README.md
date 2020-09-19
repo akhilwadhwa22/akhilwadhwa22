@@ -1,13 +1,12 @@
 ### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
 
 ![GitHub followers](https://img.shields.io/github/followers/akhilwadhwa22?label=Followers&style=flat-square)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
-![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakhil--wadhwa%2F-brightgreen)&nbsp;
-![Email](https://img.shields.io/badge/Email-akhil.wadhwa%40nyu.edu-yellowgreen)
+
 
 - 🔭 I’m currently working on C/C++.
 - 🌱 I post daily interesting Question on my LinkedIn. Interested? Click [here](https://www.linkedin.com/feed/hashtag/letscwithakhilw/)
@@ -17,9 +16,8 @@
  <!--📫[Email](akhil.wadhwa@nyu.edu)&nbsp; &nbsp;
 
  <!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
-
-
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakhil--wadhwa%2F-brightgreen)&nbsp;
+![Email](https://img.shields.io/badge/Email-akhil.wadhwa%40nyu.edu-yellowgreen)
 <!--or LinkedIn: [akhilwadhwa22]()
 
 
