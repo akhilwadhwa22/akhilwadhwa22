@@ -15,13 +15,14 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/akhilwadhwa22/Daily-Interesting-C-Questions?style=for-the-badge)&nbsp;
 ![Workspace](https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
-
 - 🔭 I’m currently working on C/C++.
 - 🌱 I post daily interesting Question on my LinkedIn. Interested? Click [here](https://www.linkedin.com/feed/hashtag/letscwithakhilw/)
 - 👯 I’m looking to collaborate on my project: [Linux_Shell_Implementation](https://github.com/akhilwadhwa22/Simple-Linux-Shell-Implementation-in-C)
-
+ 
+###  Contact Me 📫:
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
 
  <!--📫[Email](akhil.wadhwa@nyu.edu)&nbsp; &nbsp;
 
