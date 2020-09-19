@@ -1,5 +1,8 @@
 ### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) 
 
+![<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)
+
+
 ![GitHub followers](https://img.shields.io/github/followers/akhilwadhwa22?label=Followers&style=flat-square)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
