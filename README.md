@@ -1,10 +1,11 @@
 ### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) 
+
 ![GitHub followers](https://img.shields.io/github/followers/akhilwadhwa22?label=Followers&style=flat-square)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/akhilwadhwa22/Daily-Interesting-C-Questions?style=flat-square)&nbsp;
-![Linkedin](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakhil--wadhwa%2F-brightgreen)&nbsp;
+![LinkedIn](https://img.shields.io/badge/LinkedIn-https%3A%2F%2Fwww.linkedin.com%2Fin%2Fakhil--wadhwa%2F-brightgreen)&nbsp;
 ![Email](https://img.shields.io/badge/Email-akhil.wadhwa%40nyu.edu-yellowgreen)
-
+![LinkedIn](https://github-readme-linkedin.vercel.app/user?username=akhil-wadhwa)
 - 🔭 I’m currently working on C/C++.
 - 🌱 I post daily interesting Question on my LinkedIn. Interested? Click [here](https://www.linkedin.com/feed/hashtag/letscwithakhilw/)
 - 👯 I’m looking to collaborate on my project: [Linux_Shell_Implementation](https://github.com/akhilwadhwa22/Simple-Linux-Shell-Implementation-in-C)
