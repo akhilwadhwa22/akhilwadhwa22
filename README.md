@@ -1,4 +1,4 @@
-### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) :sunglasses:
+# 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) :sunglasses:
 
 ### 😄 Pronouns: He/Him/His
 
