@@ -13,6 +13,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/akhilwadhwa22?label=Followers&style=for-the-badge)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/akhilwadhwa22/Daily-Interesting-C-Questions?style=for-the-badge)&nbsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/akhilwadhwa22/Daily-Interesting-C-Questions?style=for-the-badge)&nbsp;
+![Workspace](https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
