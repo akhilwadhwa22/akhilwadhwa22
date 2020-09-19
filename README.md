@@ -1,5 +1,5 @@
 ### 👋 Welcome to My [![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/) 
-
+![GitHub followers](https://img.shields.io/github/followers/akhilwadhwa22?label=Followers&style=flat-square)
 
  📫[Email](mailto:akhil.wadhwa@nyu.edu)&nbsp; &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
