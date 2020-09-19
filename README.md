@@ -26,5 +26,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/akhil-wadhwa/)
+
 <!--- ![Workspace](https://img.shields.io/badge/apple-macbook%20pro%202017-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)--> 
 <!---[![](https://i.stack.imgur.com/tskMh.png) ](https://github.com/akhilwadhwa22/)
